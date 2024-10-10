@@ -1,9 +1,9 @@
-# TD
+# Trachinus-Draco.github.io
 Website
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-https://td.github.io/
+https://trachinus-draco.github.io/
 Website WIP
 
 Credits:
