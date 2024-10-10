@@ -1712,6 +1712,10 @@
 		padding-top: 3em;
 	}
 
+	footer.redneck {
+		text-align: center;
+	}
+
 /* Form */
 
 	input[type="text"],
@@ -2509,7 +2513,7 @@
 /* Footer */
 
 	#footer {
-		background: #0e131a;
+		background: #000000;
 		color: #7c8081;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
