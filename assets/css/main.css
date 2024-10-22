@@ -1915,6 +1915,12 @@
 			display: none;
 		}
 
+		.icon.derp {
+			text-decoration: none;
+			position: relative;
+			display: inline-block;
+		}
+
 /* List */
 
 	ol.default {
