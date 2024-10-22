@@ -1797,6 +1797,7 @@
 		}
 
 		.image.fit {
+			display: block;
 		}
 
 			.image.fit img {
@@ -1814,6 +1815,14 @@
 				width: 100%;
 			}
 
+			.image.derp {
+				margin: 0 0 2em 0;
+			}
+
+				.image.derp img {
+					display: block;
+					width: 100%;
+				}
 /* Icon */
 
 	.icon {
