@@ -1822,6 +1822,12 @@
 		position: relative;
 	}
 
+	.icon.burp {
+		text-decoration: none;
+		position: relative;
+		opacity: 0.5;
+	}
+
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
@@ -2434,8 +2440,6 @@
 
 			#banner .inner header {
 				display: inline-block;
-				border-bottom: solid 2px;
-				border-top: solid 2px;
 				margin: 0 0 2em 0;
 				padding: 3px 0 3px 0;
 			}
